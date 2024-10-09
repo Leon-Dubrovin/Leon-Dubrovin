@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-<img srs="https://raw.githubusercontent.com/Leon-Dubrovin/Leon-Dubrovin/refs/heads/main/image.webp" alt="The Unlimited" width = "600">
+<img srs="https://github.com/Leon-Dubrovin/Leon-Dubrovin/blob/main/proger.gif" alt="The Unlimited" width = "600">
